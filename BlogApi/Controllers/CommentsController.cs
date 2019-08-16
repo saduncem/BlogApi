@@ -9,9 +9,11 @@ using BlogApi.Domain.Context;
 using BlogApi.Domain.Entities;
 using BlogApi.Services.Interfaces;
 using BlogApi.Domain.Dtos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BlogApi.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CommentsController : ControllerBase
