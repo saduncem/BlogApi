@@ -1,4 +1,4 @@
-﻿using BlogApi.Data.Entities;
+﻿using BlogApi.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

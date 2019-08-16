@@ -1,4 +1,4 @@
-﻿using BlogApi.Data.Interfaces;
+﻿using BlogApi.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

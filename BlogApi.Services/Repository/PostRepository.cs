@@ -1,7 +1,7 @@
-﻿using BlogApi.Data.Context;
-using BlogApi.Data.Dtos;
-using BlogApi.Data.Entities;
-using BlogApi.Data.Interfaces;
+﻿using BlogApi.Domain.Context;
+using BlogApi.Domain.Dtos;
+using BlogApi.Domain.Entities;
+using BlogApi.Domain.Interfaces;
 using BlogApi.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;

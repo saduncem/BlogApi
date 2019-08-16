@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using BlogApi.Data.Dtos;
-using BlogApi.Data.Entities;
+using BlogApi.Domain.Dtos;
+using BlogApi.Domain.Entities;
 using BlogApi.Services.Interfaces;
 using System;
 using System.Collections.Generic;
