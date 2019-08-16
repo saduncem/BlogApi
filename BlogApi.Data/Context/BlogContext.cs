@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlogApi.Data.Context
+namespace BlogApi.Domain.Context
 {
     public class BlogContext : DbContext
     {

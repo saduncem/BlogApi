@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApi", "BlogApi\BlogApi.csproj", "{A725D652-E155-4469-AD39-E6EB3FCC5BC5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApi.Data", "BlogApi.Data\BlogApi.Data.csproj", "{F9E9C953-6E22-4050-953D-434ED0D34DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApi.Domain", "BlogApi.Data\BlogApi.Domain.csproj", "{F9E9C953-6E22-4050-953D-434ED0D34DBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApi.Services", "BlogApi.Services\BlogApi.Services.csproj", "{BC0016AF-AD70-41E0-8AE9-DCE4AAC00BCC}"
 EndProject

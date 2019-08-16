@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlogApi.Data.Entities
+namespace BlogApi.Domain.Entities
 {
     public class PostImage
     {

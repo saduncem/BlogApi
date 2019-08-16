@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace BlogApi.Data.Entities
+namespace BlogApi.Domain.Entities
 {
     public class Category 
     {

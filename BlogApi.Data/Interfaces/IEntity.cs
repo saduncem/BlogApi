@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace BlogApi.Data.Interfaces
+namespace BlogApi.Domain.Interfaces
 {
     public interface IEntity
     {
