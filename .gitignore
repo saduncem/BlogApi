@@ -340,3 +340,4 @@ ASALocalRun/
 healthchecksdb
 /BlogApi.Data/Context
 /BlogApi.Data/Dtos
+/BlogApi.Services/Class1.cs
